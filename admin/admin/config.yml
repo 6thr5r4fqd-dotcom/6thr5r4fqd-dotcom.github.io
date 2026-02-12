@@ -4,7 +4,6 @@ backend:
   branch: main
   client_id: Ov23liCkzF40hA6jZ9k
 
-
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
 

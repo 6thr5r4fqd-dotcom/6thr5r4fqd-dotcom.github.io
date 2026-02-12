@@ -5,18 +5,18 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Admin - Revista Estrategia</title>
 
-  <!-- Netlify Identity (para Git Gateway) -->
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
-  <!-- Decap CMS -->
-  <script src="https://unpkg.com/decap-cms@3.4.0/dist/decap-cms.js"></script>
+  <!-- Netlify Identity (para login) -->
+  <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
+
 <body>
-  <!-- ESTE DIV es clave: aquí se monta el CMS -->
-<div id="app"></div>
+  <!-- Este contenedor DEBE existir antes de cargar Decap -->
+  <div id="nc-root"></div>
+
+  <!-- Decap CMS (cárgalo DESPUÉS del div, o con defer) -->
+  <script src="https://unpkg.com/decap-cms@3.4.0/dist/decap-cms.js"></script>
 
   <script>
-    // Opcional: si inicias sesión, vuelve al /admin/
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("login", () => {
         document.location.href = "/admin/";

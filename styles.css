@@ -1,0 +1,15 @@
+body{margin:0;font-family:system-ui,Arial,sans-serif;color:#111;line-height:1.6}
+.wrap{max-width:960px;margin:0 auto;padding:24px}
+.header{display:flex;align-items:center;justify-content:space-between;padding:18px 24px;border-bottom:1px solid #eee}
+.brand{display:flex;gap:14px;align-items:center}
+.logo{width:44px;height:44px;background:#b00020}
+.title{font-weight:700}
+.subtitle{color:#666;font-size:14px}
+.nav a{margin-left:14px;text-decoration:none;color:#111}
+.nav a:hover{text-decoration:underline}
+.card{border:1px solid #eee;border-radius:10px;padding:16px;margin:14px 0}
+.card h3{margin:0 0 8px 0}
+.meta{color:#666;font-size:14px}
+.hero{margin:18px 0;border-radius:12px;overflow:hidden}
+.hero img{width:100%;display:block}
+.footer{border-top:1px solid #eee;padding:16px;text-align:center;color:#666}

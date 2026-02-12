@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: 6thr5r4fqd-dotcom/6thr5r4fqd-dotcom.github.io
+  branch: main
+  client_id: Ov23liCkzF40hA6jZ9k
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "posts"
+    label: "Artículos"
+    folder: "posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    format: "frontmatter"
+    extension: "md"
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Fecha", name: "date", widget: "datetime" }
+      - { label: "Imagen destacada", name: "featured_image", widget: "image", required: false }
+      - { label: "Contenido", name: "body", widget: "markdown" }

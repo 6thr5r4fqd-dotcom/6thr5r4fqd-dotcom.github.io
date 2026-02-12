@@ -1,8 +1,6 @@
 backend:
   name: github
-  repo: 6thr5r4fqd-dotcom/6thr5r4fqd-dotcom.github.io
   branch: main
-  client_id: Ov23liCkzF40hA6jZ9k
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"

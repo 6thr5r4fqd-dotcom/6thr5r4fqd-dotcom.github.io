@@ -3,5 +3,24 @@ layout: default
 title: Inicio
 ---
 
-<h2>Revista Estrategia</h2>
-<p>Teoría y debate estratégico <strong>Revista Estrategia</strong>. Desde 2019.</p>
+<section class="hero">
+  <h2>{{ site.title }}</h2>
+  <p>{{ site.description }}</p>
+</section>
+
+<section class="grid">
+  {% for post in site.posts limit: 12 %}
+    <article class="card">
+      <a href="{{ post.url }}">
+        {% if post.image %}
+          <img class="thumb" src="{{ post.image }}" alt="">
+        {% endif %}
+        <h3>{{ post.title }}</h3>
+      </a>
+      {% if post.excerpt %}
+        <p class="excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+      {% endif %}
+      <small class="meta">{{ post.date | date: "%d-%m-%Y" }}</small>
+    </article>
+  {% endfor %}
+</section>

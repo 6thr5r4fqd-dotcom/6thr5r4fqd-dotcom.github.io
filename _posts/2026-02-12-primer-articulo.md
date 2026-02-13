@@ -1,7 +1,9 @@
 ---
-layout: default
-title: "Dos revoluciones en sentido histórico: La contingenica de la transformación y el carácter del movimiento"
-image: /assets/img/ejemplo.jpg
+layout: post
+title: "Primer artículo"
+date: 2026-02-12
+image: /assets/img/portada.jpg
+excerpt: "Bajada corta del artículo (1–2 líneas)."
 ---
 
 ## Dos revoluciones en sentido histórico: La contingenica de la transformación y el carácter del movimiento

@@ -1,75 +1,162 @@
-body{margin:0;font-family:system-ui,Arial,sans-serif;color:#111;line-height:1.6}
-.wrap{max-width:960px;margin:0 auto;padding:24px}
-.header{display:flex;align-items:center;justify-content:space-between;padding:18px 24px;border-bottom:1px solid #eee}
-.brand{display:flex;gap:14px;align-items:center}
-.logo{width:44px;height:44px;background:#b00020}
-.title{font-weight:700}
-.subtitle{color:#666;font-size:14px}
-.nav a{margin-left:14px;text-decoration:none;color:#111}
-.nav a:hover{text-decoration:underline}
-.card{border:1px solid #eee;border-radius:10px;padding:16px;margin:14px 0}
-.card h3{margin:0 0 8px 0}
-.meta{color:#666;font-size:14px}
-.hero{margin:18px 0;border-radius:12px;overflow:hidden}
-.hero img{width:100%;display:block}
-.footer{border-top:1px solid #eee;padding:16px;text-align:center;color:#666}
-.wrap { max-width: 1040px; margin: 0 auto; padding: 28px 20px; }
-.hero { padding: 24px 0 8px; border-bottom: 1px solid #eee; margin-bottom: 18px; }
-.hero h2 { margin: 0 0 6px; font-size: 32px; }
-.hero p { margin: 0; color: #555; }
-
-.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
-@media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
-
-.card { border: 1px solid #eee; border-radius: 12px; overflow: hidden; background: #fff; }
-.card a { color: inherit; text-decoration: none; display: block; padding: 14px; }
-.card a:hover h3 { text-decoration: underline; }
-.thumb { width: 100%; height: 180px; object-fit: cover; display: block; margin-bottom: 10px; border-radius: 10px; }
-.card h3 { margin: 0 0 8px; font-size: 18px; }
-.excerpt { margin: 0 0 10px; color: #444; }
-.meta { color: #777; }
-.footer { text-align:center; padding: 24px 0; color: #777; border-top: 1px solid #eee; margin-top: 28px; }
-.post-body {
-  max-width: 760px;
-  margin: 0 auto;
-  font-size: 1.1rem;
-  line-height: 1.7;
+/* Base */
+body{
+  margin:0;
+  font-family:system-ui, Arial, sans-serif;
+  color:#111;
+  line-height:1.6;
 }
 
-.post-body p {
-  text-align: justify;
-  margin-bottom: 1.2em;
-}
-/* Páginas (tipo WordPress) */
-.page {
-  max-width: 860px;
-  margin: 0 auto;
-  padding: 48px 24px;
+a{ color:inherit; }
+
+/* Layout */
+.wrap{
+  max-width:1040px;
+  margin:0 auto;
+  padding:28px 20px;
 }
 
-.page-header {
-  margin-bottom: 24px;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 18px;
+/* Header */
+.header{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:18px 24px;
+  border-bottom:1px solid #eee;
 }
 
-.page-header h1 {
-  margin: 0 0 8px 0;
-  font-size: 2.2rem;
-  line-height: 1.2;
+.brand{
+  display:flex;
+  gap:14px;
+  align-items:center;
 }
 
-.page-subtitle {
-  margin: 0;
-  color: #666;
+.logo{
+  width:44px;
+  height:44px;
+  background:#b00020;
+  border-radius:10px;
 }
 
-/* Cuerpo editorial */
-.post-body p {
-  text-align: justify;
-  text-justify: inter-word;
-  line-height: 1.8;
-  font-size: 1.05rem;
-  margin: 0 0 16px 0;
+.title{ font-weight:700; }
+.subtitle{ color:#666; font-size:14px; }
+
+.nav a{
+  margin-left:14px;
+  text-decoration:none;
+  color:#111;
+}
+.nav a:hover{ text-decoration:underline; }
+
+/* Home hero */
+.hero{
+  padding:24px 0 8px;
+  border-bottom:1px solid #eee;
+  margin-bottom:18px;
+}
+.hero h2{ margin:0 0 6px; font-size:32px; }
+.hero p{ margin:0; color:#555; }
+
+/* Featured */
+.featured{ margin:18px 0 26px; }
+.featured-card{
+  display:grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap:18px;
+  text-decoration:none;
+  border:1px solid #eee;
+  border-radius:14px;
+  overflow:hidden;
+  background:#fff;
+}
+.featured-img{
+  width:100%;
+  height:320px;
+  object-fit:cover;
+  display:block;
+}
+.featured-content{ padding:16px 16px 18px; }
+.kicker{ font-size:12px; letter-spacing:.08em; text-transform:uppercase; color:#777; margin-bottom:6px; }
+.featured-content h3{ margin:0 0 10px; font-size:22px; line-height:1.25; }
+.featured-content .excerpt{ margin:0 0 10px; color:#444; }
+.featured-content .meta{ color:#777; font-size:14px; }
+
+@media (max-width: 900px){
+  .featured-card{ grid-template-columns:1fr; }
+  .featured-img{ height:220px; }
 }
 
+/* Grid de artículos */
+.grid{
+  display:grid;
+  grid-template-columns:repeat(3, 1fr);
+  gap:18px;
+}
+@media (max-width: 900px){
+  .grid{ grid-template-columns:1fr; }
+}
+
+/* Cards */
+.card{
+  border:1px solid #eee;
+  border-radius:12px;
+  overflow:hidden;
+  background:#fff;
+}
+.card a{
+  color:inherit;
+  text-decoration:none;
+  display:block;
+  padding:14px;
+}
+.card a:hover h3{ text-decoration:underline; }
+.thumb{
+  width:100%;
+  height:180px;
+  object-fit:cover;
+  display:block;
+  margin-bottom:10px;
+  border-radius:10px;
+}
+.card h3{ margin:0 0 8px; font-size:18px; }
+.excerpt{ margin:0 0 10px; color:#444; }
+.meta{ color:#777; font-size:14px; }
+
+/* Páginas y posts */
+.page{
+  max-width:860px;
+  margin:0 auto;
+  padding:48px 24px;
+}
+.page-header{
+  margin-bottom:24px;
+  border-bottom:1px solid #eee;
+  padding-bottom:18px;
+}
+.page-header h1{
+  margin:0 0 8px 0;
+  font-size:2.2rem;
+  line-height:1.2;
+}
+.page-subtitle{ margin:0; color:#666; }
+
+/* Cuerpo editorial (esto es lo que justifica) */
+.post-body{
+  max-width:760px;
+  margin:0 auto;
+  font-size:1.1rem;
+  line-height:1.8;
+}
+.post-body p{
+  text-align:justify;
+  text-justify:inter-word;
+  margin:0 0 16px 0;
+}
+
+/* Footer */
+.footer{
+  text-align:center;
+  padding:24px 0;
+  color:#777;
+  border-top:1px solid #eee;
+  margin-top:28px;
+}

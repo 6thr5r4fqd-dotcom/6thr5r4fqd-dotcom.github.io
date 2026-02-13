@@ -3,15 +3,10 @@ layout: post
 title: "Dos revoluciones en sentido histórico: La contingencia de la transformación y el carácter del movimiento"
 date: 2023-04-17
 image: /assets/img/mi-foto.jpg
-excerpt: "Bajada corta del artículo (1–2 líneas)."
+excerpt: "Cuando el autor británico Eric Hobsbawm en su obra La era de la Revolución propone pensar en un sentido histórico la relevancia de las revoluciones alrededor de la actividad humana"
 ---
 
 ## Dos revoluciones en sentido histórico: La contingencia de la transformación y el carácter del movimiento
-Comité Editorial Revista Estrategia
-
-image: /assets/img/mi-foto.jpg
-excerpt: "Cuando el autor británico Eric Hobsbawm en su obra La era de la Revolución propone pensar en un sentido histórico la relevancia de las revoluciones alrededor de la actividad humana"
-
 Comité Editorial Revista Estrategia
 
 “La tradición de todas las generaciones muertas oprime como una pesadilla el cerebro de los vivos. Y cuando estos aparentan dedicarse precisamente a transformarse y a transformar las cosas, a crear algo nunca visto, en estas épocas de crisis revolucionaria es precisamente cuando conjuran temerosos en su auxilio los espíritus del pasado, toman prestados sus nombres, sus consignas de guerra, su ropaje, para, con este disfraz de vejez venerable y este lenguaje prestado, representar la nueva escena de la historia universal”. 

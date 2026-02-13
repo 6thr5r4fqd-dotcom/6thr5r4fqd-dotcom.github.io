@@ -4,8 +4,6 @@ title: "Dos revoluciones en sentido histórico: La contingenica de la transforma
 image: /assets/img/ejemplo.jpg
 ---
 
-Aquí va el contenido del artículo en **Markdown**.
-
 ## Dos revoluciones en sentido histórico: La contingenica de la transformación y el carácter del movimiento
 Comité Editorial Revista Estrategia
 

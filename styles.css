@@ -29,3 +29,15 @@ body{margin:0;font-family:system-ui,Arial,sans-serif;color:#111;line-height:1.6}
 .excerpt { margin: 0 0 10px; color: #444; }
 .meta { color: #777; }
 .footer { text-align:center; padding: 24px 0; color: #777; border-top: 1px solid #eee; margin-top: 28px; }
+.post-body {
+  max-width: 760px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.post-body p {
+  text-align: justify;
+  margin-bottom: 1.2em;
+}
+

@@ -37,7 +37,7 @@ permalink: /la-revista/
   <p>Puedes encontrarnos en:</p>
 
 <div class="la-revista-social">
-  <a href="https://instagram.com/revistaestrategia" target="_blank" rel="noopener">
+  <a href="https://www.instagram.com/revista_estrategia/" target="_blank" rel="noopener">
     Instagram
   </a>
   <a href="https://x.com/revistaestrategia" target="_blank" rel="noopener">

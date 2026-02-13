@@ -3,13 +3,33 @@ layout: default
 title: Inicio
 ---
 
+{% assign featured = site.posts.first %}
+
 <section class="hero">
-  <h2>{{ site.title }}</h2>
-  <p>{{ site.description }}</p>
+  <div class="hero-text">
+    <h2>{{ site.title }}</h2>
+    <p>{{ site.description }}</p>
+  </div>
 </section>
 
+{% if featured %}
+<section class="featured">
+  <a class="featured-card" href="{{ featured.url }}">
+    {% if featured.image %}
+      <img class="featured-img" src="{{ featured.image }}" alt="">
+    {% endif %}
+    <div class="featured-content">
+      <div class="kicker">Destacado</div>
+      <h3>{{ featured.title }}</h3>
+      <p class="excerpt">{{ featured.excerpt | strip_html | truncate: 220 }}</p>
+      <div class="meta">{{ featured.date | date: "%d-%m-%Y" }}</div>
+    </div>
+  </a>
+</section>
+{% endif %}
+
 <section class="grid">
-  {% for post in site.posts limit: 12 %}
+  {% for post in site.posts offset: 1 limit: 12 %}
     <article class="card">
       <a href="{{ post.url }}">
         {% if post.image %}

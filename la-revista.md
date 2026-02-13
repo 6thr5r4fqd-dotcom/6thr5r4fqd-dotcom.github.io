@@ -34,24 +34,14 @@ permalink: /la-revista/
       <br><span>— Rosa Luxemburgo</span>
     </blockquote>
 
-    <div class="la-revista-social">
-      <a href="#">Instagram</a>
-      <a href="#">X</a>
-    </div>
-  </div>
-</section>
-
-<section class="la-revista-about">
-  <h2>Acerca del blog</h2>
-
-  <p>
-    <em><strong>Revista Estrategia</strong> es una iniciativa que pone a su servicio la posibilidad de contribuir al debate estratégico y actual de la clase trabajadora en perspectiva de su emancipación. Articulando diversos elementos teóricos y coyunturales que se orienten a fortalecer las herramientas de las y los trabajadores.</em>
-  </p>
-
   <p>Puedes encontrarnos en:</p>
 
-  <div class="la-revista-social">
-    <a href="#">Instagram</a>
-    <a href="#">X</a>
-  </div>
-</section>
+<div class="la-revista-social">
+  <a href="https://instagram.com/revistaestrategia" target="_blank" rel="noopener">
+    Instagram
+  </a>
+  <a href="https://x.com/revistaestrategia" target="_blank" rel="noopener">
+    X
+  </a>
+</div>
+

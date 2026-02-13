@@ -6,7 +6,12 @@ image: /assets/img/ejemplo.jpg
 
 Aquí va el contenido del artículo en **Markdown**.
 
-## Subtítulo
+## Dos revoluciones en sentido histórico: La contingenica de la transformación y el carácter del movimiento
+Comité Editorial Revista Estrategia
+
+date: 2023-04-17
+image: /assets/img/mi-foto.jpg
+excerpt: "Bajada corta del artículo..."
 
 Comité Editorial Revista Estrategia
 

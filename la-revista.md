@@ -4,22 +4,52 @@ title: La Revista
 permalink: /la-revista/
 ---
 
-<section class="page page-la-revista">
-  <header class="page-header">
-    <h1>La Revista</h1>
-    <p class="page-subtitle">
-      Teoría y debate estratégico
+<section class="la-revista-hero">
+  <div class="la-revista-media">
+    <img src="/assets/img/ros.png" alt="Afiche conmemorativo de Rosa Luxemburgo">
+    <p class="la-revista-caption">
+      Afiche conmemorativo de Rosa Luxemburgo, promotora de la huelga general como arma de combate clasista, opositora sin tregua a la I Guerra Mundial y crítica de Lenin y los bolcheviques.
     </p>
-  </header>
+  </div>
 
-  <div class="page-content post-body">
-    <p>
-      Estrategia se propone al servicio del debate estratégico y coyuntural de la clase trabajadora en Chile, Latinoamérica y el mundo. Las actuales circunstancias en que se manifiesta el capitalismo y el imperialismo en los diversos pueblos del mundo demanda la tarea de la izquierda y quiénes se propongan desde la transformación y la transición a nuevas condiciones de vida y subsistencia para las y los trabajadores.
-    </p>
+  <div class="la-revista-text">
+    <h1 class="la-revista-title">Revista Estrategia</h1>
 
     <p>
-      Estrategia retoma el camino histórico en Chile de quiénes durante periódos álgidos de la lucha de clases propusiéron una herramienta de clase que funcionara de herramienta teórica, de debate y también de encuentro con otras y otros actores fundamentales en el proyecto estratégico de la izquierda.
+      <strong>Estrategia</strong> se propone al servicio del debate estratégico y coyuntural de la clase trabajadora en Chile, Latinoamérica y el mundo. Las actuales circunstancias en que se manifiesta el capitalismo y el imperialismo en los diversos pueblos del mundo demanda la tarea de la izquierda y quienes se propongan desde la transformación y la transición a nuevas condiciones de vida y subsistencia para las y los trabajadores.
     </p>
 
     <p>
-      Es
+      <strong>Estrategia</strong> retoma el camino histórico en Chile de quienes durante períodos álgidos de la lucha de clases propusieron una herramienta de clase que funcionara como herramienta teórica, de debate y también de encuentro con otras y otros actores fundamentales en el proyecto estratégico de la izquierda.
+    </p>
+
+    <p>
+      <strong>Estrategia</strong> perspectiva ese debate como un ejercicio permanente, indisoluble a las capacidades intelectuales que se encuentran en el pueblo trabajador y que solo en la medida de su desarrollo puede proponer nuevos elementos que colaboren en su propia emancipación.
+    </p>
+
+    <blockquote class="la-revista-quote">
+      «No hay ninguna calumnia más grosera, ningún insulto más indignante contra los trabajadores, que la afirmación de que las discusiones teóricas son solamente cosa de los académicos».
+      <br><span>— Rosa Luxemburgo</span>
+    </blockquote>
+
+    <div class="la-revista-social">
+      <a href="#">Instagram</a>
+      <a href="#">X</a>
+    </div>
+  </div>
+</section>
+
+<section class="la-revista-about">
+  <h2>Acerca del blog</h2>
+
+  <p>
+    <em><strong>Revista Estrategia</strong> es una iniciativa que pone a su servicio la posibilidad de contribuir al debate estratégico y actual de la clase trabajadora en perspectiva de su emancipación. Articulando diversos elementos teóricos y coyunturales que se orienten a fortalecer las herramientas de las y los trabajadores.</em>
+  </p>
+
+  <p>Puedes encontrarnos en:</p>
+
+  <div class="la-revista-social">
+    <a href="#">Instagram</a>
+    <a href="#">X</a>
+  </div>
+</section>

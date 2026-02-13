@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "Primer artículo"
-date: 2026-02-12
-image: /assets/img/portada.jpg
+title: "Dos revoluciones en sentido histórico: La contingencia de la transformación y el carácter del movimiento"
+date: 2023-04-17
+image: /assets/img/mi-foto.jpg
 excerpt: "Bajada corta del artículo (1–2 líneas)."
 ---
 
 ## Dos revoluciones en sentido histórico: La contingencia de la transformación y el carácter del movimiento
 Comité Editorial Revista Estrategia
 
-date: 2023-04-17
-image: /assets/mi-foto.jpg
+image: /assets/img/mi-foto.jpg
 excerpt: "Cuando el autor británico Eric Hobsbawm en su obra La era de la Revolución propone pensar en un sentido histórico la relevancia de las revoluciones alrededor de la actividad humana"
 
 Comité Editorial Revista Estrategia

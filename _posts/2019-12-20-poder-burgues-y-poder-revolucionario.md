@@ -20,41 +20,15 @@ Poder burgués y poder revolucionario
 El texto redactado por Mario Roberto Santucho en agosto de 1974 se estaciona en un momento particular para las y los revolucionarios, no tan sólo de la Argentina, sino más bien del continente. La lucha librada desde la década de los 60’ se posiciona como el resultado de décadas de acumulación de experiencias que se desencadenaban en sucesivas expresiones de organización de la clase trabajadora como también de los pobres del campo y la ciudad.
 Tampoco se situaba en un contexto inusual, muy por el contrario, el proceso de levantamientos por parte de las y los oprimidos resonaba como un solo coro en todo el continente, desarrollando desde ahí una apuesta estratégica para los pueblos. Constituir por tanto un poder revolucionario efectivo que se trasladara del imaginario social a la realidad material de la clase trabajadora era la tarea puesta por delante de una serie de organizaciones y partidos revolucionarios en el continente.
 
-En el terreno de la lucha de clases en nuestra América, es que la construcción del poder
-del poder revolucionario se enfrentó a las clases dominantes y al imperialismo, en una lucha
-a muerte que materializaba el combate sobre la construcción estratégica de una nueva
-sociedad nueva, el desarrollo del socialismo y la edificación del comunismo. Las reflexiones
-elaboradas por Santucho, Enríquez y miles de dirigentes revolucionarios además estaban
-insertos en un periodo de avances en la conciencia de los pobres del campo y la ciudad,
-que desarrollaron a través de ese proceso la capacidad de constituir formas de gobierno
-ajenas al Estado burgués y sus aparatos.
-Desde ahí que la derrota que enfrentan las y los revolucionarios en nuestra América desde
-los 70’ en adelante genera no tan sólo una brecha con respecto a los objetivos que en ese
+En el terreno de la lucha de clases en nuestra América, es que la construcción del poder del poder revolucionario se enfrentó a las clases dominantes y al imperialismo, en una lucha a muerte que materializaba el combate sobre la construcción estratégica de una nueva sociedad nueva, el desarrollo del socialismo y la edificación del comunismo. Las reflexiones elaboradas por Santucho, Enríquez y miles de dirigentes revolucionarios además estaban insertos en un periodo de avances en la conciencia de los pobres del campo y la ciudad, que desarrollaron a través de ese proceso la capacidad de constituir formas de gobierno ajenas al Estado burgués y sus aparatos. 
 
-instante la clase trabajadora se trazaba, sino que también por medio de las clases
-dominantes y el imperialismo norteamericano provocaba los cambios estructurales,
-judiciales y económicos más profundos en desmedro de los pobres del campo y la ciudad,
-buscando no sólo aplastarlos en el terreno militar y de la persecución política, sino que
-también en término de sus vidas y la dignidad que hasta ese entonces nuestra clase había
-conquistado.
-Por ello, es que los levantamientos populares en el seno del capitalismo más
-deshumanizante despiertan el interés por parte de quiénes se posicionan desde la vereda
-de las y los explotados, como también de los sectores dominantes que aseguran sus
-privilegios a costa de todos los medios que disponen como clase. Las revueltas populares
-del último año en América Latina poseen en la mayoría de los casos la búsqueda de cambiar
-el viraje que la burguesía aseguró hace algunas décadas por medio del monopolio de la
-violencia. Prontamente, se posicionan reivindicaciones que se conectan con la construcción
-de una nueva sociedad y se saltan los esfuerzos en conectar esas necesidades con la poca
-empatía del Estado burgués y capitalista. Desde ahí es que la movilización de masas se
-traslada al combate directo entre clases en defensa de sus posiciones, abriendo un campo
-de lucha como el que hace meses se viene dando en la Patria Grande.
-La lectura y la comprensión de las reflexiones que revolucionarios como Santucho
-desarrollaron en un escenario distinto pero no desconectado del presente se hace
-necesario para cualquier agrupación y partido con vocación de poder y construcción del
-socialismo, dejando de lado la espontaneidad y el sensacionalismo para revertirlo en el
-estudio metódico y comprensivo de la realidad para afrontar desde ahí las tareas de las y
-los revolucionarios.
+Desde ahí que la derrota que enfrentan las y los revolucionarios en nuestra América desde los 70’ en adelante genera no tan sólo una brecha con respecto a los objetivos que en ese instante la clase trabajadora se trazaba, sino que también por medio de las clases dominantes y el imperialismo norteamericano provocaba los cambios estructurales, judiciales y económicos más profundos en desmedro de los pobres del campo y la ciudad, buscando no sólo aplastarlos en el terreno militar y de la persecución política, sino que también en término de sus vidas y la dignidad que hasta ese entonces nuestra clase había conquistado.
+
+Por ello, es que los levantamientos populares en el seno del capitalismo más deshumanizante despiertan el interés por parte de quiénes se posicionan desde la vereda de las y los explotados, como también de los sectores dominantes que aseguran sus privilegios a costa de todos los medios que disponen como clase. Las revueltas populares del último año en América Latina poseen en la mayoría de los casos la búsqueda de cambiar el viraje que la burguesía aseguró hace algunas décadas por medio del monopolio de la violencia. Prontamente, se posicionan reivindicaciones que se conectan con la construcción de una nueva sociedad y se saltan los esfuerzos en conectar esas necesidades con la poca empatía del Estado burgués y capitalista. Desde ahí es que la movilización de masas se traslada al combate directo entre clases en defensa de sus posiciones, abriendo un campo de lucha como el que hace meses se viene dando en la Patria Grande.
+
+La lectura y la comprensión de las reflexiones que revolucionarios como Santucho desarrollaron en un escenario distinto pero no desconectado del presente se hace necesario para cualquier agrupación y partido con vocación de poder y construcción del socialismo, dejando de lado la espontaneidad y el sensacionalismo para revertirlo en el estudio metódico y comprensivo de la realidad para afrontar desde ahí las tareas de las y los revolucionarios.
 El poder de la burguesía: La estabilidad capitalista que aún no se rompe
+
 Santucho hablaba de que en circunstancias en que se agudizaba el conflicto de clases, tal
 como sucedió durante los años anteriores al de su escrito “Poder burgués y poder
 revolucionario”, se aclaraban cuestiones vitales para los intereses de las masas, justamente

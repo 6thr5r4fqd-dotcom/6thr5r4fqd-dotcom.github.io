@@ -3,7 +3,7 @@
 layout: post
 title: "Notas de Geopolítica #1: La cuestión del imperio y la reyerta del proceso en América Latina"
 date: 2026-03-10
-image: /assets/img/mi-foto2.jpg
+image: /assets/img/mi-foto4.jpg
 excerpt: "Una revisión crítica en clave geopolítica marxista sobre el imperialismo en el siglo XXI y sus expresiones contemporáneas en América Latina y Medio Oriente."
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

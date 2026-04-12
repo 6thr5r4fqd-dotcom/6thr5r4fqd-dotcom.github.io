@@ -2,7 +2,7 @@
 layout: post
 title: "Mercancía y desvalorización de la vida: El programa de la ultraderecha y la tensión en la coexistencia democrática del gobierno de Kast"
 date: 2026-04-11
-image: /assets/img/mi-foto2.jpg
+image: /assets/img/mi-foto5.jpg
 excerpt: "La desvalorización del mundo humano crece en razón directa de la valorización del mundo de las cosas."
 ---
 

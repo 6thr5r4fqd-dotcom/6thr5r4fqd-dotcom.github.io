@@ -9,7 +9,8 @@ permalink: /la-revista/
   max-width: 980px;
   margin: 0 auto;
   padding: 3rem 1.25rem;
-  color: #f2f2f2;
+  color: #1a1a1a;
+  background: #ffffff;
   line-height: 1.7;
 }
 
@@ -17,7 +18,7 @@ permalink: /la-revista/
   font-size: clamp(2rem, 5vw, 3.5rem);
   margin-bottom: 2rem;
   text-align: center;
-  color: #ffffff;
+  color: #111111;
 }
 
 .la-revista-text {
@@ -28,10 +29,11 @@ permalink: /la-revista/
 .la-revista-text p {
   margin-bottom: 1.5rem;
   font-size: 1.05rem;
+  color: #1a1a1a;
 }
 
 .la-revista-text strong {
-  color: #ffffff;
+  color: #000000;
 }
 
 .la-revista-hero {
@@ -55,7 +57,7 @@ permalink: /la-revista/
 
 .la-revista-caption {
   font-size: 0.95rem;
-  color: #d6d6d6;
+  color: #333333;
   text-align: left;
   margin-top: 1rem;
 }
@@ -65,8 +67,8 @@ permalink: /la-revista/
   margin: 3rem auto;
   padding: 1.5rem 2rem;
   border-left: 4px solid #b00020;
-  background: rgba(255, 255, 255, 0.06);
-  color: #ffffff;
+  background: #f4f4f4;
+  color: #1a1a1a;
   font-size: 1.15rem;
   font-style: italic;
 }
@@ -76,12 +78,13 @@ permalink: /la-revista/
   margin-top: 1rem;
   font-size: 0.95rem;
   font-style: normal;
-  color: #cccccc;
+  color: #333333;
 }
 
 .la-revista-links {
   text-align: center;
   margin-top: 3rem;
+  color: #1a1a1a;
 }
 
 .la-revista-social {
@@ -95,16 +98,17 @@ permalink: /la-revista/
 .la-revista-social a {
   display: inline-block;
   padding: 0.7rem 1.2rem;
-  border: 1px solid #ffffff;
-  color: #ffffff;
+  border: 1px solid #b00020;
+  color: #b00020;
   text-decoration: none;
   border-radius: 999px;
   transition: all 0.2s ease;
+  font-weight: 600;
 }
 
 .la-revista-social a:hover {
-  background: #ffffff;
-  color: #111111;
+  background: #b00020;
+  color: #ffffff;
 }
 </style>
 

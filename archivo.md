@@ -131,7 +131,7 @@ permalink: /archivo/
     <h1 class="archivo-title">Archivo</h1>
 
     <p>
-      A continuación presentamos los números históricos de la <strong>Revista Estrategia</strong>. <strong>Estrategia. Revista Teórica del Movimiento de Izquierda Revolucionaria</strong>, publicada en Santiago en septiembre de 1966,como parte de la necesidad vital de la práctica revolucionaria latinoamericana. Volver hoy sobre sus páginas — no es un gesto arqueológico: es recuperar una forma de pensar en la que la lectura estaba directamente conectada con la acción.
+      A continuación presentamos los números históricos de la Revista Estrategia. Revista Teórica del Movimiento de Izquierda Revolucionaria, publicada en Santiago en septiembre de 1966,como parte de la necesidad vital de la práctica revolucionaria latinoamericana. Volver hoy sobre sus páginas — no es un gesto arqueológico: es recuperar una forma de pensar en la que la lectura estaba directamente conectada con la acción.
     </p>
   </div>
 

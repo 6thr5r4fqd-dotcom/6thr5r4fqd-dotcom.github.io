@@ -2,7 +2,7 @@
 layout: post
 title: "Más que una afirmación una polémica: El Partido y la estrategia"
 date: 2026-06-24
-image: /assets/img/mi-foto.jpg
+image: /assets/img/mi-foto7.jpg
 excerpt: "El presente texto tiene por interés superior recoger una serie de elementos vigentes, principalmente de la obra de Antonio Gramsci, traídos al presente análisis a través de la selección de textos desarrollada por Osvaldo Fernández."
 ---
 

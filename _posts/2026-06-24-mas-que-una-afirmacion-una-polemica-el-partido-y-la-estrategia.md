@@ -39,6 +39,9 @@ article blockquote,
 
 Comité Editorial Revista Estrategia
 
+"La lucha política se convierte en una serie de hechos personales entre quiénes lo saben todo, y han pactado con el diablo, y quiénes son objeto de burla por parte de sus propios dirigentes, sin querer convencerse de ello a causa de su incurable estupidez". 
+Antonio Gramsci, Cuadernos de la cárcel XIII - Alcuni aspetti teorici e pratici dell’«economismo»
+
 ## Aclaratoria inicial
 
 El presente texto tiene por interés superior recoger una serie de elementos vigentes, principalmente de la obra de Antonio Gramsci y traídos al presente análisis a través de la selección de textos desarrollada por Osvaldo Fernández quién materializa dicha selección con el texto *Maquiavelo y Lenin: Notas para una Teoría Política Marxista* (1971). (1)

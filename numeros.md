@@ -96,7 +96,7 @@ permalink: /numeros/
       </p>
 
       <p>
-        <strong>Debates y reflexiones para el siglo XXI</strong> reúne textos orientados a contribuir al análisis político, la discusión teórica y la elaboración estratégica en el presente.
+        <strong>Debates y reflexiones para el siglo XXI</strong> 
       </p>
 
       <a class="numeros-button" href="/assets/pdf/revista-estrategia-n1-invierno-2026.pdf" target="_blank" rel="noopener">

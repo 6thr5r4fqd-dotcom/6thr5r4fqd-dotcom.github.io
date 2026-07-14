@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Opinión | Mundial, hiperpolítica y la ilusión de posicionamiento"
+title: "Mundial, hiperpolítica y la ilusión de posicionamiento"
 date: 2026-07-13
 image: /assets/img/mi-foto8.jpg
 excerpt: "En nuestros días existe una hiperpolitización de lo cotidiano en la que cualquier interés o elección, ya sea de música, cine o, en tiempos de Mundial, equipo de fútbol, te ubica en el lado bueno o malo de la historia."

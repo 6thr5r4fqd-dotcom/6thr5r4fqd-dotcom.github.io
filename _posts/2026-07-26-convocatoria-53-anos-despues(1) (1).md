@@ -4,6 +4,7 @@ title: "Convocatoria: 53 años después: Programa, táctica y estrategia de la c
 date: 2026-07-26
 image: /assets/img/mi-foto10.jpg
 excerpt: "Revista Estrategia convoca a personas, organizaciones y agrupaciones a presentar artículos, ensayos, reflexiones y documentos que contribuyan a discutir el programa, la técnica y la estrategia de la clase trabajadora en Chile, a 53 años del golpe cívico y militar de septiembre de 1973."
+tags: [Convocatoria, Clase trabajadora, Chile]
 ---
 
 <div style="text-align: justify;" markdown="1">

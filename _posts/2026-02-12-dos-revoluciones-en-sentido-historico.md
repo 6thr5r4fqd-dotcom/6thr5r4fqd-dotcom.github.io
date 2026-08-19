@@ -4,6 +4,7 @@ title: "Dos revoluciones en sentido histórico: La contingencia de la transforma
 date: 2023-04-17
 image: /assets/img/mi-foto.jpg
 excerpt: "Cuando el autor británico Eric Hobsbawm en su obra La era de la Revolución propone pensar en un sentido histórico la relevancia de las revoluciones alrededor de la actividad humana"
+tags: [Historia, Revolución, Teoría]
 ---
 
 ## Dos revoluciones en sentido histórico: La contingencia de la transformación y el carácter del movimiento

@@ -4,6 +4,7 @@ title: "Nicaragua y Chile: Un necesario asalto a la memoria histórica"
 date: 2026-07-19
 image: /assets/img/mi-foto9.jpg
 excerpt: "A propósito del texto 50 años de la tarea militar de la izquierda de Chile y de los tiempos que corren, este texto reivindica la centralidad de la experiencia política y práctica del compromiso internacionalista de militantes de la izquierda chilena."
+tags: [Memoria histórica, Internacionalismo, América Latina]
 ---
 
 <div style="text-align: justify;">

@@ -4,6 +4,7 @@ title: "Poder burgués y poder revolucionario: Aportes y lecturas de cara a la r
 date: 2019-12-20
 image: /assets/img/mi-foto2.jpg
 excerpt: "El texto redactado por Mario Roberto Santucho en agosto de 1974 se estaciona en un momento particular para las y los revolucionarios, no tan sólo de la Argentina, sino más bien del continente."
+tags: [Estrategia, Revolución, América Latina]
 ---
 
 ## Poder burgués y poder revolucionario: Aportes y lecturas de cara a la revuelta popular de octubre.

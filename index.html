@@ -7,40 +7,127 @@ title: Inicio
 
 <section class="hero">
   <div class="hero-text">
-    <h2>{{ site.title }}</h2>
+    <span class="hero-kicker">Teoría · política · estrategia</span>
+    <h1>{{ site.title }}</h1>
     <p>Revista teórica y proyecto revolucionario para el debate estratégico.</p>
   </div>
 </section>
 
 {% if featured %}
 <section class="featured">
-  <a class="featured-card" href="{{ featured.url }}">
+  <a class="featured-card" href="{{ featured.url | relative_url }}">
     {% if featured.image %}
-      <img class="featured-img" src="{{ featured.image }}" alt="">
+      <img class="featured-img" src="{{ featured.image | relative_url }}" alt="Imagen de portada de {{ featured.title | escape }}">
     {% endif %}
     <div class="featured-content">
       <div class="kicker">Destacado</div>
       <h3>{{ featured.title }}</h3>
       <p class="excerpt">{{ featured.excerpt | strip_html | truncate: 220 }}</p>
-      <div class="meta">{{ featured.date | date: "%d-%m-%Y" }}</div>
+      {% if featured.tags.size > 0 %}
+        <div class="tag-list" aria-label="Etiquetas">
+          {% for tag in featured.tags limit: 3 %}<span class="tag">{{ tag }}</span>{% endfor %}
+        </div>
+      {% endif %}
+      <div class="meta"><time datetime="{{ featured.date | date_to_xmlschema }}">{{ featured.date | date: "%d-%m-%Y" }}</time></div>
     </div>
   </a>
 </section>
 {% endif %}
 
-<section class="grid">
-  {% for post in site.posts offset: 1 limit: 12 %}
-    <article class="card">
-      <a href="{{ post.url }}">
+<section class="articles-section" aria-labelledby="latest-title">
+  <div class="section-heading">
+    <div>
+      <span class="section-kicker">Publicaciones</span>
+      <h2 id="latest-title">Últimas entradas</h2>
+    </div>
+    <p id="results-count" class="results-count" aria-live="polite"></p>
+  </div>
+
+  {% if site.tags.size > 0 %}
+  <div class="tag-filters" aria-label="Filtrar publicaciones por etiqueta">
+    <button class="filter-button is-active" type="button" data-filter="all" aria-pressed="true">Todas</button>
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag_entry in sorted_tags %}
+      {% assign tag_name = tag_entry[0] %}
+      <button class="filter-button" type="button" data-filter="{{ tag_name | slugify }}" aria-pressed="false">{{ tag_name }}</button>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="grid" id="articles-grid">
+  {% for post in site.posts offset: 1 %}
+    <article class="card{% if forloop.index > 12 %} is-beyond-limit{% endif %}" data-tags="{% for tag in post.tags %}{{ tag | slugify }}{% unless forloop.last %} {% endunless %}{% endfor %}">
+      <a class="card-media" href="{{ post.url | relative_url }}">
         {% if post.image %}
-          <img class="thumb" src="{{ post.image }}" alt="">
+          <img class="thumb" src="{{ post.image | relative_url }}" alt="Imagen de portada de {{ post.title | escape }}" loading="lazy">
         {% endif %}
-        <h3>{{ post.title }}</h3>
       </a>
-      {% if post.excerpt %}
-        <p class="excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
-      {% endif %}
-      <small class="meta">{{ post.date | date: "%d-%m-%Y" }}</small>
+      <div class="card-content">
+        {% if post.tags.size > 0 %}
+          <div class="tag-list" aria-label="Etiquetas">
+            {% for tag in post.tags limit: 2 %}<span class="tag">{{ tag }}</span>{% endfor %}
+          </div>
+        {% endif %}
+        <a class="card-title-link" href="{{ post.url | relative_url }}">
+        <h3>{{ post.title }}</h3>
+        </a>
+        {% if post.excerpt %}<p class="excerpt">{{ post.excerpt | strip_html | truncate: 150 }}</p>{% endif %}
+        <div class="card-footer">
+          <time class="meta" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time>
+          <a class="read-more" href="{{ post.url | relative_url }}" aria-label="Leer {{ post.title | escape }}">Leer</a>
+        </div>
+      </div>
     </article>
   {% endfor %}
+  </div>
+
+  {% if site.posts.size > 13 %}
+    <div class="load-more-wrap"><button id="load-more" class="load-more" type="button">Mostrar más</button></div>
+  {% endif %}
+  <p id="empty-state" class="empty-state" hidden>No hay publicaciones con esta etiqueta.</p>
 </section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const cards = Array.from(document.querySelectorAll('#articles-grid .card'));
+  const filters = Array.from(document.querySelectorAll('.filter-button'));
+  const loadMore = document.getElementById('load-more');
+  const count = document.getElementById('results-count');
+  const empty = document.getElementById('empty-state');
+  let visibleLimit = 12;
+  let activeFilter = 'all';
+
+  function render() {
+    const matches = cards.filter(card => activeFilter === 'all' || card.dataset.tags.split(' ').includes(activeFilter));
+    cards.forEach(card => {
+      const matchesFilter = matches.includes(card);
+      const withinLimit = activeFilter !== 'all' || matches.indexOf(card) < visibleLimit;
+      card.hidden = !(matchesFilter && withinLimit);
+    });
+    count.textContent = matches.length + (matches.length === 1 ? ' entrada' : ' entradas');
+    empty.hidden = matches.length !== 0;
+    if (loadMore) loadMore.hidden = activeFilter !== 'all' || visibleLimit >= matches.length;
+  }
+
+  filters.forEach(button => button.addEventListener('click', function () {
+    activeFilter = this.dataset.filter;
+    filters.forEach(item => {
+      const active = item === this;
+      item.classList.toggle('is-active', active);
+      item.setAttribute('aria-pressed', String(active));
+    });
+    render();
+  }));
+
+  if (loadMore) loadMore.addEventListener('click', function () {
+    visibleLimit += 12;
+    render();
+  });
+
+  const requestedTag = new URLSearchParams(window.location.search).get('etiqueta');
+  const requestedButton = filters.find(button => button.dataset.filter === requestedTag);
+  if (requestedButton) requestedButton.click();
+
+  render();
+});
+</script>

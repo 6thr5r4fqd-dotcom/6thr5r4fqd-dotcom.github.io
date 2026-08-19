@@ -4,6 +4,7 @@ title: "Ultraderecha o fascismo: Precisiones políticas para definiciones estrat
 date: 2026-04-11
 image: /assets/img/mi-foto6.jpg
 excerpt: "Precisiones políticas para definiciones estratégicas del siglo XXI en torno a la ultraderecha y el fascismo."
+tags: [Ultraderecha, Fascismo, Estrategia]
 ---
 
 ## Ultraderecha o fascismo: Precisiones políticas para definiciones estratégicas del siglo XXI

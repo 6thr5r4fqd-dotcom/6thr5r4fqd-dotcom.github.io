@@ -4,6 +4,7 @@ title: "Ante el sensible fallecimiento de Manuel Cabieses"
 date: 2026-03-03
 image: /assets/img/mi-foto3.jpg
 excerpt: "Hace algunos días se comunicó el sensible fallecimiento de Manuel Cabieses, periodista, fundador y director de la revista Punto Final."
+tags: [Memoria histórica, Chile]
 ---
 
 ## Ante el sensible fallecimiento de Manuel Cabieses  

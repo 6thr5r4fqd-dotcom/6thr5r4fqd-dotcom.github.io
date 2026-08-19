@@ -4,6 +4,7 @@ title: "Ideología y Marx, apuntes para un debate permanente. Parte I."
 date: 2026-08-07
 image: /assets/img/mi-foto11.jpg
 excerpt: "Desde la existencia de la lucha de clases, el concepto de ideología ha estado en boga de aquellos que se abren paso en la disputa política."
+tags: [Ideología, Marxismo, Teoría]
 ---
 
 <div style="text-align: justify;">

@@ -3,7 +3,7 @@ layout: post
 title: "Capitalismo y pulsión de muerte."
 date: 2026-08-21
 image: /assets/img/mi-foto13.jpg
-author: "Echeverria Nicolás"
+author: "Echevarria Nicolás"
 email: "nicolasechevarriaa@gmail.com"
 tags:
   - Capitalismo
@@ -16,7 +16,7 @@ excerpt: "El capitalismo contemporáneo configura una forma-sujeto que pretende 
 
 <div style="text-align: justify;" markdown="1">
 
-<p><strong>Echeverria Nicolás</strong><br>
+<p><strong>Echevarria Nicolás</strong><br>
 <a href="mailto:nicolasechevarriaa@gmail.com">nicolasechevarriaa@gmail.com</a></p>
 
 ## Resumen

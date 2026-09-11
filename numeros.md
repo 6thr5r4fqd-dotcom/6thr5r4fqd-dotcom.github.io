@@ -104,6 +104,22 @@ permalink: /numeros/
       </a>
     </div>
 
+    <div class="numeros-box">
+      <h2>Edición N°2</h2>
+
+      <p class="numeros-meta">
+        Primavera, 2026
+      </p>
+
+      <p>
+        <strong>53 años después: Programa, táctica y estrategia de la clase trabajadora en Chile</strong>
+      </p>
+
+      <a class="numeros-button" href="/assets/pdf/revista-estrategia-n2-primavera-2026.pdf" target="_blank" rel="noopener">
+        Leer revista
+      </a>
+    </div>
+
     <p>
       Para consultas sobre distribución, colaboración o acceso a la revista, puedes escribirnos a través de nuestras redes sociales.
     </p>

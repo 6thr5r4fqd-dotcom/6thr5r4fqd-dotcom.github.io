@@ -2,6 +2,7 @@
 layout: post
 title: "18 de octubre: El estallido social que puso en cuestión el orden neoliberal"
 date: 2026-10-13
+image: /assets/img/18-de-octubre-portada.jpg
 excerpt: "Salto el torniquete y corro, el corazón golpea el pecho, la ciudad se agita y algo que parecía imposible comienza a ocurrir: miles de personas dejan de aceptar, aunque sea por un instante, las reglas de una normalidad que durante décadas se"
 tags: [Chile, Luchas populares, Memoria histórica]
 ---

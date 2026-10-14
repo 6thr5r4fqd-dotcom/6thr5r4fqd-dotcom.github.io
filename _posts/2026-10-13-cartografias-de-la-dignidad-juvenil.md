@@ -2,6 +2,7 @@
 layout: post
 title: "Cartografías de la dignidad juvenil: No importa cuándo leas esto, los jóvenes están dando cara\"."
 date: 2026-10-13
+image: /assets/img/cartografias-dignidad-juvenil-portada.jpg
 excerpt: "El movimiento estudiantil contemporáneo se sitúa en un escenario de profunda tensión dialéctica entre la institucionalidad política y la movilización de base. Las estructuras sociales adultocéntricas operan como mecanismos de deslegitimació"
 tags: [Juventud, Luchas populares, Educación, Chile]
 ---

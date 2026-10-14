@@ -122,7 +122,7 @@ tags: [Chile, Luchas populares, Memoria histórica]
 
 <p>Mbembe, A. (2003). Necropolitics. Public Culture, 15(1), 11–40. https://doi.org/10.1215/08992363-15-1-11</p>
 
-<h3>Tilly, C. (2004). Social movements, 1768–2004. Paradigm Publishers.</h3>
+<p>Tilly, C. (2004). Social movements, 1768–2004. Paradigm Publishers.</p>
 
 <p>Varas Rojas, S. (2026, 26 de septiembre). Hacia una sociología del malestar: Notas para una categoría en construcción. Carcaj. https://carcaj.cl/hacia-una-sociologia-del-malestar-notas-para-una-categoria-en-construccion/</p>
 

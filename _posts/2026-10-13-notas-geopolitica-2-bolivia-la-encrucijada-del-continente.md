@@ -11,8 +11,6 @@ tags: [Geopolítica, Bolivia, América Latina, Imperialismo]
 
 Comité Editorial Revista Estrategia
 
-<img src="{{ '/assets/img/bolivia-encrucijada.jpg' | relative_url }}" alt="Figura de espaldas con sombrero y manta de colores sobre fondo dorado" style="display:block;max-width:100%;width:540px;height:auto;margin:2rem auto;">
-
 > “(...) Esta conjunción de contingencias adversas tenía que producir inevitablemente el resurgimiento del viejo espíritu conservador y oligárquico. Decaídos los estímulos de progreso y reforma, la enseñanza recayó en su antigua rutina. Los representantes típicos de la mentalidad civilista restauraron su pasada absoluta hegemonía. El expediente de la interinidad, aplicado cada día con mayor extensión, sirvió para disimular temporalmente el restablecimiento del conservatismo en las posiciones de donde fuera desalojado en parte por la oleada reformista.
 
 <p style="text-align: justify;">
